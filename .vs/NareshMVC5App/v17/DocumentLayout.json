@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NareshMVC5App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|D:\\NareshMVC5App\\nareshmvc5app\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|D:\\NareshMVC5App\\nareshmvc5app\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|d:\\nareshmvc5app\\nareshmvc5app\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|D:\\NareshMVC5App\\nareshmvc5app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|d:\\nareshmvc5app\\nareshmvc5app\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|D:\\NareshMVC5App\\nareshmvc5app\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|d:\\nareshmvc5app\\nareshmvc5app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|d:\\nareshmvc5app\\nareshmvc5app\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|D:\\NareshMVC5App\\nareshmvc5app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CF6BC8-DAF5-47FB-A03E-0FDEB65288FF}|NareshMVC5App\\NareshMVC5App.csproj|solutionrelative:nareshmvc5app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "NareshMVC5App\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:56:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NareshMVC5App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:55:08.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Global.asax.cs",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Global.asax.cs",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Global.asax.cs",
+              "RelativeToolTip": "NareshMVC5App\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:34:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NareshMVC5App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T11:52:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "NareshMVC5App\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "NareshMVC5App\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:54:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "NareshMVC5App\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "NareshMVC5App\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:54:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "NareshMVC5App\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "NareshMVC5App\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:54:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "NareshMVC5App\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:54:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NareshMVC5App\\NareshMVC5App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NareshMVC5App\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NareshMVC5App\\NareshMVC5App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NareshMVC5App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:56:07.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
